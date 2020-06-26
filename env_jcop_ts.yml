@@ -28,6 +28,6 @@ dependencies:
   # Machine Learning
   - xgboost==0.80
   - scikit-optimize==0.7.4
-  - jcopml==1.1.8
+  - jcopml==1.1.10
   - luwiji==1.1.7
   - pmdarima==1.6.1
